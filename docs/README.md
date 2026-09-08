@@ -51,7 +51,7 @@ footer: <a href="http://beian.miit.gov.cn" target="_blank">京ICP备19031103号<
 
 ### 开发的项目
 
-- 创新项目「AI」(11)
+- 创新项目「AI」(13)
     - [AI Agent Guide - 通识教程](https://ai-agent-guide.xiaofuge.cn/) - `做AI项目前，可以先刷下。`
     - [WaLiSSH - AI Shell 智能终端](https://bugstack.cn/md/project/walissh/walissh.html)
     - [WaLiCode - AI Coding/DevOps 可持续交付助手](https://bugstack.cn/md/project/walicode/walicode.html) - `在 walissh 上扩展，代码已经提前提交`
@@ -63,7 +63,9 @@ footer: <a href="http://beian.miit.gov.cn" target="_blank">京ICP备19031103号<
     - [ChatGPT AI 问答助手 - 小型，对接知识星球](https://bugstack.cn/md/zsxq/project/chatbot-api.html)
     - [AI 新范式（0编码），开发 + 运维（部署、压测、调优）](https://bugstack.cn/md/project/ai-new-paradigm/ai-new-paradigm.html)
     - [WaLiAPI - AI LLM LocalGateway 本地网关系统（渠道分发、日志留存、日志审计，知识库）](https://bugstack.cn/md/project/waliapi/waliapi.html)
-  
+    - [WaLiOffice - 在线办公系统（docx、ppt、draw.io、excel、图像、视频）](https://bugstack.cn/md/project/walioffice/walioffice.html)
+    - [Java + DDD，1:1 复刻 Deepseek Harness 项目](https://bugstack.cn/md/project/deepseek-harness-java/deepseek-harness-java.html)
+
 - 业务项目(5) 
     - [拼团交易平台系统](https://bugstack.cn/md/project/group-buy-market/group-buy-market.html)
     - [小型支付电商系统 - 一套项目2套架构开发（MVC+DDD）](https://bugstack.cn/md/project/s-pay-mall/s-pay-mall.html)

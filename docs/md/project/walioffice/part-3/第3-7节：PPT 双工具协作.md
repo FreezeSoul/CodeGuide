@@ -1,9 +1,9 @@
 ---
-title: 第3-7节：联网搜索工具web_search
+title: 第3-7节：PPT 双工具协作（plan + generate）
 pay: https://t.zsxq.com/Cj0j0
 ---
 
-# 《WaLiOffice - AI Agent 智能办公平台》第3-7节：联网搜索工具web_search
+# 《WaLiOffice - AI Agent 智能办公平台》第3-7节：PPT 双工具协作（plan + generate）
 
 作者：小傅哥
 <br/>博客：[https://bugstack.cn](https://bugstack.cn)

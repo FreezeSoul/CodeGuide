@@ -400,6 +400,10 @@ module.exports = {
                                         text: 'WaLiOffice - word、ppt、excel、draw.io 在线办公系统',
                                         link: '/md/project/walioffice/walioffice.md'
                                     },
+                                    {
+                                        text: 'Java + DDD，1:1 复刻 Deepseek Harness 项目',
+                                        link: '/md/project/deepseek-harness-java/deepseek-harness-java.md'
+                                    },
                                 ]
                             },
                             {
@@ -602,6 +606,7 @@ module.exports = {
                     "/md/project/walicode/": getBarWaLiCode(),
                     "/md/project/waliapi/": getBarWaLiAPI(),
                     "/md/project/walioffice/": getBarWaLiOffice(),
+                    "/md/project/deepseek-harness-java/": getBarDeepseekHarnessJava(),
                     "/md/project/ai-mcp-gateway/": getBarAIMCPGateway(),
                     "/md/project/ai-new-paradigm/": getBarAINewParadigm(),
                     "/md/project/local-task-message/": getBarLocalTaskMessage(),
@@ -2707,11 +2712,11 @@ function getBarWaLiOffice() {
             children: [
                 "part-3/第3-1节：Markdown工具——全链路模板打通.md",
                 "part-3/第3-2节：Word工具与纯Rust DOCX渲染.md",
-                "part-3/第3-3节：PPT双工具协作plan+generate.md",
+                "part-3/第3-3节：联网搜索工具 web_search.md",
                 "part-3/第3-4节：Excel工具与XLSX渲染.md",
                 "part-3/第3-5节：ECharts图表工具与前端渲染.md",
                 "part-3/第3-6节：react-drawio嵌入式编辑器.md",
-                "part-3/第3-7节：联网搜索工具web_search.md",
+                "part-3/第3-7节：PPT 双工具协作.md",
                 "part-3/第3-8节：图像生成——API调用与多Key轮询.md",
                 "part-3/第3-9节：图像生成——附件理解与图生图.md",
                 "part-3/第3-10节：视频生成——Agnes Video API.md",
@@ -2748,6 +2753,27 @@ function getBarWaLiOffice() {
                 "part-6/第6-4节：cordis插件系统与BlockAssembler.md",
                 "part-6/第6-5节：Rust代理路由与工具回调.md",
                 "part-6/第6-6节：前端适配与DSH全链路验证.md",
+            ]
+        },
+    ]
+}
+
+function getBarDeepseekHarnessJava() {
+    return [
+        {
+            title: "介绍",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "deepseek-harness-java.md",
+            ]
+        },
+        {
+            title: "1阶段 - 需求分析",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "none.md",
             ]
         },
     ]
