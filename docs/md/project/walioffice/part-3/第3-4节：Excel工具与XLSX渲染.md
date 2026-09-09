@@ -1,6 +1,6 @@
 ---
 title: 第3-4节：Excel工具与XLSX渲染
-pay: 
+pay: https://t.zsxq.com/RPzTM
 ---
 
 # 《WaLiOffice - AI Agent 智能办公平台》第3-4节：Excel工具与XLSX渲染
